@@ -8,6 +8,7 @@ buildscript {
 
 apply plugin: 'java'
 apply plugin: 'maven-publish'
+apply plugin: 'eclipse'
 
 version = "1.0.0"
 
